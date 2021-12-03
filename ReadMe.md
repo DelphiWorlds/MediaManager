@@ -2,7 +2,7 @@
 
 ## Description
 
-This feature is intended to be merged into [Kastri](), however there may be substantial changes during its development, so for now it is offered as a separate repo 
+This feature is intended to be merged into [Kastri](https://github.com/DelphiWorlds/Kastri), however there may be substantial changes during its development, so for now it is offered as a separate repo 
 
 `TMediaManager` allows access to media (e.g. photos and videos) in the collections of media (albums) on the users device
 
